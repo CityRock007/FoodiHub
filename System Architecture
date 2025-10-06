@@ -1,0 +1,13 @@
+Customers / Restaurants / Riders → FoodiHub Web & Mobile App (Flutter)
+│
+│──> REST API (Node.js + Express)
+│
+│──> Database (PostgreSQL / ReinHost Cloud)
+│
+│──> Real-time Order Tracking (Socket.IO / Firebase)
+│
+│──> Payment Gateway (Paystack / Flutterwave)
+│
+│──> Storage (AWS S3 / ReinHost Storage)
+│
+└──> Notifications (Firebase Cloud Messaging / SMTP)
